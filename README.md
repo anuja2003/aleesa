@@ -3,7 +3,7 @@
 ##  🎹 A telegram bot that can download songs 🎸
 ### Reach me on Telegram [💭 Aleesa🧚‍](https://t.me/songdownload_music_world_bot)
 <p align="center">
-  <img src="https://telegra.ph/aleesa-09-27">
+  <img src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg">
 </p>
 
 
