@@ -1,5 +1,4 @@
 # 💭 Aleesa😍
-(https://t.me/songdownload_music_world_bot)
 සියල්ල අත් නොහැර , සියල්ල අත්හැරෙන බව දැනගෙන ජීවත් වෙන්න 🙂✊
 ##  🎹 A telegram bot that can download songs 🎸
 ### Reach me on Telegram [💭 Aleesa🧚‍](https://t.me/songdownload_music_world_bot)
