@@ -12,3 +12,4 @@
   <h1>🐺 Akina 🌹</h1>
 </div>
 <p align="center">
+![hi] (https://github.githubassets.com/images/icons/emoji/octocat.png)
